@@ -28,9 +28,8 @@ I'm a software developer and aspiring DJ based in Kenya. I love building practic
 
 ### 📫 Connect With Me
 
-* **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/OwenMucheru)
+* **GitHub:** [github.com/OwenMucheru](https://github.com/OwenMucheru)
 * **Email / Inquiries:** Drop a message via my repositories or professional profiles.
 
 ---
-*⚡ Fun fact: When I'm not writing code or managing databases, you'll probably find me curating a fresh set or working on audio mixes.*<!--
-**OwenMucheru/OwenMucheru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*⚡ Fun fact: When I'm not writing code or managing databases, you'll probably find me curating a fresh set or working on audio mixes.*
