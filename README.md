@@ -20,7 +20,7 @@ I'm a software developer and aspiring DJ based in Kenya. I love building practic
 ### 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OwenMucheru&show_icons=true&theme=radical&hide_border=true" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwenMucheru&layout=compact&theme=radical&hide_border=true" />
